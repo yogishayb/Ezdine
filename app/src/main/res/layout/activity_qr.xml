@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QrActivity">
+
+
+    <include
+        android:layout_alignParentTop="true"
+        layout="@layout/tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:id="@+id/toolbar"/>
+
+    <FrameLayout
+        android:layout_below="@id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+        <LinearLayout
+            android:background="@color/white"
+            android:id="@+id/ll"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:fontFamily="@font/actor"
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/ezdine"
+                android:textStyle="bold"
+                android:textSize="40sp"
+                android:textColor="@color/green1"/>
+            <TextView
+                android:fontFamily="@font/actor"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/scan"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="@color/green1"/>
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:layout_gravity="center"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:id="@+id/imageview"/>
+
+
+            <TextView
+
+                android:padding="8dp"
+                android:background="@color/green_light8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rest_name"
+                android:gravity="center"
+                android:textSize="28sp"
+                android:fontFamily="@font/montserrat_alternates"
+                android:textColor="@color/green1"
+                android:id="@+id/tvrestName"/>
+            <TextView
+                android:layout_marginTop="60dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/powered_by"
+                android:gravity="center"
+                android:textSize="10sp"
+                android:fontFamily="@font/actor"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/crispy"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:fontFamily="@font/advent_pro_semibold"
+                android:textColor="@color/green1"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:text="ezdine.in"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:fontFamily="@font/actor"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_marginBottom="30dp"/>
+        </LinearLayout>
+
+        <ProgressBar
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:indeterminate="true"
+            android:indeterminateTint="@color/green1"
+            android:layout_gravity="center"
+            android:id="@+id/progressBar"
+            android:visibility="gone"/>
+    </FrameLayout>
+
+    <Button
+        android:textColor="@color/green1"
+        android:layout_margin="30dp"
+        android:visibility="gone"
+        style="?android:attr/borderlessButtonStyle"
+        android:background="@drawable/btn_send_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:text="@string/share"
+        android:id="@+id/btnShareQr"/>
+
+</RelativeLayout>

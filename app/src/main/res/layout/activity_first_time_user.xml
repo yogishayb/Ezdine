@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstTimeUserActivity">
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_gravity="center"
+            android:id="@+id/ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="start"
+            android:padding="20dp">
+            <EditText
+                android:inputType="textCapWords"
+                android:padding="10dp"
+                android:background="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Owner Name"
+                android:id="@+id/etOwnerName"/>
+            <EditText
+                android:inputType="textCapWords"
+                android:padding="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Rest Name"
+                android:id="@+id/etrestName"/>
+            <EditText
+                android:padding="10dp"
+                android:background="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:hint="Email"
+                android:id="@+id/etEmail"/>
+            <Button
+                android:textColor="@drawable/btn_bg"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/actor"
+                android:textAllCaps="false"
+                style="?android:attr/borderlessButtonStyle"
+                android:background="@drawable/btn_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/next"
+                android:id="@+id/btnNext"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Please Wait....."
+            android:gravity="center"
+            android:textColor="#000"
+            android:id="@+id/tvPleaseWait"
+            android:visibility="gone"/>
+    </FrameLayout>
+
+
+
+
+
+
+</RelativeLayout>

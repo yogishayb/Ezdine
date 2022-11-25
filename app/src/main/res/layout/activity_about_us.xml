@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUsActivity"
+    android:background="#fff">
+
+    <include
+        layout="@layout/tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:id="@+id/toolbar"/>
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/launcher_icon" />
+
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:text="Version 0.0.1"
+        android:textAlignment="center"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvVersion"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/actor"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="It's the demo app"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/tvReadMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvInfo"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="@font/actor"
+        android:text="Read More"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:gravity="end"
+        android:padding="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:textColor="@drawable/btn_bg"
+            android:background="@drawable/btn_bg"
+            android:textAllCaps="false"
+            style="?android:attr/borderlessButtonStyle"
+            android:id="@+id/btnContactUs"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_us"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#ffffff"/>
+        <Button
+            android:id="@+id/btnInvite"
+            android:text="@string/invite_others"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:textColor="@drawable/btn_bg"
+            android:background="@drawable/btn_bg"
+            android:textAllCaps="false"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+         />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#FFFFFF"/>
+        <Button
+            android:text="@string/privacy_policy"
+            android:id="@+id/btnPrivacyPolicy"
+
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:textColor="@drawable/btn_bg"
+            android:background="@drawable/btn_bg"
+            android:textAllCaps="false"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</RelativeLayout>

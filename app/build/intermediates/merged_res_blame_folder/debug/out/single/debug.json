@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_et_gray_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/et_gray_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_gra_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/gra_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_send_o_t_p.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_send_o_t_p.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_send.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/send.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_edit.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_edit.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_edit_item.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_edit_item.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_update_profile_item.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_update_profile_item.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_add_alert.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/add_alert.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_global.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/global.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_profile_item_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/profile_item_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_splash_screen_background.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_profile_list_item.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/profile_list_item.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_count_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/count_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_actor.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/actor.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_baseline_emoji_food_beverage_24.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_baseline_emoji_food_beverage_24.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_baseline_chevron_left_24.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_baseline_chevron_left_24.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_first_time_user.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_first_time_user.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_category_item_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/category_item_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_qr.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_qr.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_btn_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_add_category_item.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_add_category_item.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_id.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/id.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/anim_bottom_slide_out.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/anim/bottom_slide_out.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_tool_bar.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/tool_bar.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_itemlist.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_itemlist.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_btn_add_item_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/btn_add_item_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_itemlist_layout.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/itemlist_layout.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_open_sans.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/open_sans.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_map.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/map.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_alegreya_sans_light.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/alegreya_sans_light.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_listitem_category.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/listitem_category.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_round_send_otp_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/round_send_otp_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_audiowide.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/audiowide.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_list_item_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/list_item_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_sharp_more_vert_24_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_sharp_more_vert_24_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_owner.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/owner.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/anim_right_slide_in.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/anim/right_slide_in.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_qr_icon.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/qr_icon.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_about_us.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_icons8_worker_id_card_100.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/icons8_worker_id_card_100.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_listitem_layout.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/listitem_layout.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_et_bg_phone_number.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/et_bg_phone_number.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_call.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/call.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_user_sign_out.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_user_sign_out.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_blue_cursor.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/blue_cursor.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_email.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/email.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_ez_text.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/ez_text.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_advent_pro_semibold.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/advent_pro_semibold.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_profile.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_open_sans_semibold.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/open_sans_semibold.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_dialog_category_options.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/dialog_category_options.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_montserrat_alternates.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/montserrat_alternates.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_outline_delete_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_outline_delete_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_launcher_icon.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/launcher_icon.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxhdpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxhdpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/menu_main_menu.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_listprice_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/listprice_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xhdpi_ic_baseline_chevron_left_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xhdpi/ic_baseline_chevron_left_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_btn_send_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/btn_send_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_bottom_corner_radius.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/bottom_corner_radius.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_lv_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/lv_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_sign_out_item.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/sign_out_item.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_sharp_more_vert_24_white.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_sharp_more_vert_24_white.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-hdpi/ic_baseline_add_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_restaurant.png.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/restaurant.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_outline_delete_24.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_outline_delete_24.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_add_dialog_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/add_dialog_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_baseline_emoji_food_beverage_24.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_baseline_emoji_food_beverage_24.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable_btn_add_bg.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/drawable/btn_add_bg.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/layout_activity_verify_o_t_p.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/layout/activity_verify_o_t_p.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-anydpi-v21_ic_back_white.xml.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-anydpi-v21/ic_back_white.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-xxxhdpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-xxxhdpi/ic_back_white.png"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/font_roboto_slab_light.xml.flat",
+        "source": "com.insajet.ezdine.app-main-23:/font/roboto_slab_light.xml"
+    },
+    {
+        "merged": "com.insajet.ezdine.app-merged_res-21:/drawable-mdpi_ic_back_white.png.flat",
+        "source": "com.insajet.ezdine.app-pngs-16:/drawable-mdpi/ic_back_white.png"
+    }
+]

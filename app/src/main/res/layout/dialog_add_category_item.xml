@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_dialog_bg"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <EditText
+        android:hint="@string/category_type"
+        android:textCursorDrawable="@drawable/blue_cursor"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etCategoryName"
+        android:padding="10dp"
+        android:backgroundTint="@color/green1"/>
+    <Button
+        android:textSize="14sp"
+        style="?android:attr/borderlessButtonStyle"
+        android:fontFamily="@font/actor"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="add"
+        android:layout_gravity="end"
+        android:background="@drawable/btn_add_bg"
+        android:textColor="#fff"
+        android:id="@+id/btnAddCategory"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="50dp"/>
+
+
+</LinearLayout>

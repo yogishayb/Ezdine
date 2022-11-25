@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368406201206",
+    "project_id": "ezdine-38f1f",
+    "storage_bucket": "ezdine-38f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368406201206:android:f730b6d5486f7c49c33057",
+        "android_client_info": {
+          "package_name": "com.insajet.ezdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368406201206-1q25lavtgo3kiom67btgq5cljl7nn31n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-wVuflX1PZT3pzdAkaSVabzyT6-k4HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368406201206-1q25lavtgo3kiom67btgq5cljl7nn31n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

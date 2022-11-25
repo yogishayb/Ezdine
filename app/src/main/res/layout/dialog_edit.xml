@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_dialog_bg"
+    android:padding="10dp">
+    <EditText
+
+        android:inputType="textCapWords"
+        android:backgroundTint="@color/green_light8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="edit"
+        android:id="@+id/etValue"
+        android:padding="10dp"/>
+
+    <Button
+        android:layout_marginTop="4dp"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:fontFamily="@font/actor"
+        android:background="@drawable/btn_add_bg"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:text="Save"
+        android:id="@+id/btnUpdate"
+        android:layout_marginBottom="50dp"/>
+</LinearLayout>

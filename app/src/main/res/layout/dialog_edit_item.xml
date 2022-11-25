@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/add_dialog_bg"
+    android:paddingStart="10dp"
+    android:paddingEnd="10dp"
+    android:paddingTop="10dp"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/ll1">
+    <EditText
+        android:textCursorDrawable="@drawable/blue_cursor"
+        android:backgroundTint="@color/blue"
+        android:autofillHints=""
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/item_name"
+        android:id="@+id/etItemName"
+        android:padding="15dp"/>
+    <EditText
+        android:textCursorDrawable="@drawable/blue_cursor"
+        android:layout_marginTop="10dp"
+        android:padding="15dp"
+        android:backgroundTint="@color/blue"
+        android:autofillHints=""
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etItemPrice"
+        android:hint="@string/item_price"/>
+
+    <Button
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:padding="10dp"
+        android:id="@+id/btnAdd"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_add_bg"
+        android:fontFamily="@font/actor"
+        android:text="Add"
+        android:textColor="#fff" />
+</LinearLayout>

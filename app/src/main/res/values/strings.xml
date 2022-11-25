@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EzDine</string>
+    <string name="_0123456789">0000000000</string>
+    <string name="_91">+91 -</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="we_will_send_an_one_time_password_to_this_number">We will send an One Time Password to this number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="tt">One time password sent to this 8747864187 number please enter same here to login</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile">Profile</string>
+    <string name="qr_code">Qr Code</string>
+    <string name="item_price">Item price</string>
+    <string name="item_name">Item name</string>
+    <string name="add_to_menu">Add to menu</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_category">delete category</string>
+    <string name="category_type">Category Type</string>
+
+    <string name="restname">restName</string>
+    <string name="etemail">etEmail</string>
+    <string name="next">Next</string>
+    <string name="_123456">000000</string>
+    <string name="change_number">Change number.</string>
+    <string name="category">Category</string>
+    <string name="value">Value</string>
+    <string name="update">Update</string>
+    <string name="label">Label</string>
+    <string name="about_us">About</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="invite_others">Invite Others</string>
+    <string name="add">Add</string>
+    <string name="crispy">Crispy Bells Services</string>
+    <string name="powered_by">Powered By</string>
+    <string name="rest_name">RestName</string>
+    <string name="scan">Scan the below code to access the Menu</string>
+    <string name="ezdine">EzDine</string>
+    <string name="share">Share</string>
+    <string name="verify">Verify</string>
+</resources>

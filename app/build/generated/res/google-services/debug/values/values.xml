@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">368406201206-1q25lavtgo3kiom67btgq5cljl7nn31n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">368406201206</string>
+    <string name="google_api_key" translatable="false">AIzaSyD2-wVuflX1PZT3pzdAkaSVabzyT6-k4HI</string>
+    <string name="google_app_id" translatable="false">1:368406201206:android:f730b6d5486f7c49c33057</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD2-wVuflX1PZT3pzdAkaSVabzyT6-k4HI</string>
+    <string name="google_storage_bucket" translatable="false">ezdine-38f1f.appspot.com</string>
+    <string name="project_id" translatable="false">ezdine-38f1f</string>
+</resources>
